@@ -1,0 +1,50 @@
+.nav-wrapper{
+    background-color:#6f4037 ;
+}
+.slider .indicators .indicator-item.active {
+    background-color:#6f4037;
+}
+
+.move{
+    margin-top:60;
+    margin-bottom:20px;
+}
+
+.parallax-container{
+    min-height:280px;
+    height:auto;
+}
+
+.icon-coffee{
+    background-color:#6f4037;
+}
+
+.footer-one{
+    background-color: #6f4037;
+}
+
+.footer-two{
+    background-color: #462822;
+}
+
+nav ul a {
+   
+    color: #000;
+   
+}
+
+
+nav .nav-wrapper {
+   
+    padding: 0 50px;
+}
+.copyright{
+    padding-left: 300px !important;
+}
+.social-link{
+    color: #fff;
+}
+
+.social-link:hover{
+    color: #000;
+}
